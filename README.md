@@ -1,8 +1,8 @@
-d## Prazer sou o Léo
-1
+## Prazer sou o Léo
 - 🔭 I’m currently working on 
 - 🌱 Cursando Sistemas para Internet
 - 📫 How to reach me: leandrogamasantana12@gmail.com
+- 
 
 <div>
   <a href="https://beacons.ai/Legamas">
