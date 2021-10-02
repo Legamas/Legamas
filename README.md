@@ -1,4 +1,4 @@
-## Prazer sou o Léo
+## Olá, sou o Léo
 
 - 🌱 Cursando Sistemas para Internet
 - 📫 How to reach me: leandrogamasantana12@gmail.com
